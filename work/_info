@@ -1,0 +1,174 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/altera/15.1
+Eclock_divider
+Z0 w1542214076
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dE:/lab4
+Z5 8E:/lab4/clock_divider.vhd
+Z6 FE:/lab4/clock_divider.vhd
+l0
+L14
+VhmP^W]_8kG_K8TWz_J;A@0
+!s100 SBXDn`2S]0=OFAhm7Ll;W3
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1542916773
+!i10b 1
+Z9 !s108 1542916773.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/lab4/clock_divider.vhd|
+Z11 !s107 E:/lab4/clock_divider.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Abehaviour
+R1
+R2
+R3
+DEx4 work 13 clock_divider 0 22 hmP^W]_8kG_K8TWz_J;A@0
+l26
+L25
+V7]85HanI]JDL@@CnMO9cB2
+!s100 1GM^TVo11@l?X=IL>hFK`3
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Egame_controller
+Z14 w1542915872
+R1
+R2
+R3
+R4
+Z15 8//campus.mcgill.ca/emf/cpe/glapor/Desktop/game_controller.vhd
+Z16 F//campus.mcgill.ca/emf/cpe/glapor/Desktop/game_controller.vhd
+l0
+L29
+VRVmlE`U7KkX5iPRCi>V;E0
+!s100 <8IBS94b:8bTLbLfd<>AX0
+R7
+32
+Z17 !s110 1542916774
+!i10b 1
+Z18 !s108 1542916774.000000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//campus.mcgill.ca/emf/cpe/glapor/Desktop/game_controller.vhd|
+Z20 !s107 //campus.mcgill.ca/emf/cpe/glapor/Desktop/game_controller.vhd|
+!i113 1
+R12
+R13
+Abehaviour
+R1
+R2
+R3
+Z21 DEx4 work 15 game_controller 0 22 RVmlE`U7KkX5iPRCi>V;E0
+l394
+L144
+Z22 VZ4OYAZGfg8^;^FIa48XO63
+Z23 !s100 >m^9JgRGV6PXUXmDdMJSK2
+R7
+32
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R12
+R13
+Esprite_rom
+Z24 w1542302428
+R1
+R2
+R3
+R4
+Z25 8E:/lab4/sprite_rom.vhd
+Z26 FE:/lab4/sprite_rom.vhd
+l0
+L28
+VE3oY<nmjbh6NAme>`c0MD1
+!s100 XDV=_]:b=g@6z<EJB8cc=3
+R7
+32
+R8
+!i10b 1
+R9
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/lab4/sprite_rom.vhd|
+Z28 !s107 E:/lab4/sprite_rom.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R1
+R2
+R3
+DEx4 work 10 sprite_rom 0 22 E3oY<nmjbh6NAme>`c0MD1
+l145
+L42
+Vk>@4im;U40^YoBWzzWcP51
+!s100 Y;oUH]Z7A]GNkZinlFRFd0
+R7
+32
+R8
+!i10b 1
+R9
+R27
+R28
+!i113 1
+R12
+R13
+Etb_game_controller
+Z29 w1542916696
+R1
+R2
+R3
+R4
+Z30 8E:\lab4\tb_game_controller.vhd
+Z31 FE:\lab4\tb_game_controller.vhd
+l0
+L6
+VDP^OS5JQMP15XUbJUIZLO1
+!s100 kg><OTe<:m7YHf_H9C@QI3
+R7
+32
+Z32 !s110 1542916772
+!i10b 1
+Z33 !s108 1542916772.000000
+Z34 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:\lab4\tb_game_controller.vhd|
+Z35 !s107 E:\lab4\tb_game_controller.vhd|
+!i113 1
+R12
+R13
+Abehaviour
+R1
+R2
+R3
+DEx4 work 18 tb_game_controller 0 22 DP^OS5JQMP15XUbJUIZLO1
+l42
+L9
+V7^H:UkezcKZHY0Ug<W`jc3
+!s100 LN=WQEc`GfHNHD9_lfChZ2
+R7
+32
+R32
+!i10b 1
+R33
+R34
+R35
+!i113 1
+R12
+R13

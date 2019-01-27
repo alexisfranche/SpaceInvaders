@@ -1,0 +1,42 @@
+E:/lab4/sprite_rom.vhd {1 {vcom -work work -2002 -explicit -stats=none E:/lab4/sprite_rom.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity sprite_rom
+-- Compiling architecture Behavioral of sprite_rom
+
+} {} {}} E:/lab4/tb_game_controller.vhd {2 {vcom -work work -2002 -explicit -stats=none {E:\lab4\tb_game_controller.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity tb_game_controller
+-- Compiling architecture behaviour of tb_game_controller
+** Warning: E:\lab4\tb_game_controller.vhd(68): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: E:\lab4\tb_game_controller.vhd(72): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: E:\lab4\tb_game_controller.vhd(81): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: E:\lab4\tb_game_controller.vhd(88): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: E:\lab4\tb_game_controller.vhd(90): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} //campus.mcgill.ca/emf/cpe/glapor/Desktop/game_controller.vhd {1 {vcom -work work -2002 -explicit -stats=none //campus.mcgill.ca/emf/cpe/glapor/Desktop/game_controller.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity game_controller
+-- Compiling architecture behaviour of game_controller
+
+} {} {}} E:/lab4/clock_divider.vhd {1 {vcom -work work -2002 -explicit -stats=none E:/lab4/clock_divider.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity clock_divider
+-- Compiling architecture behaviour of clock_divider
+
+} {} {}}
